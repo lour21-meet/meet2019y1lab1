@@ -1,5 +1,4 @@
-import turtle 
-
+import turtle￼ 
 # Everything that comes after the # is a 
 # comment.
 # It is a note to the person reading the code.
@@ -18,9 +17,16 @@ turtle.goto(-200+50,-100)
 turtle.goto(-200+100,-100+200)
 turtle.goto(-200+100,-100)
 turtle.penup()
-turtle.goto(25,-100)
+turtle.goto(-50,-100)
 turtle.pendown()
-turtle.goto(-200,-100+200)
+turtle.goto(-50,-100+200)
+turtle.goto(60,-100+200)
+turtle.penup()
+turtle.goto(-50,-100+100)
+turtle.pendown()
+turtle.goto(60,-100+100)
+
+
 
 
 # ...and end it before the next line.
